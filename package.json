@@ -1,0 +1,50 @@
+{
+    "name": "meteoinfo",
+    "version": "0.0.0",
+    "description": "Meteoinfo is a powerful kit for translating meteorological sounding messages",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gylidian/meteoinfo.git"
+    },
+    "keywords": [
+        "meteo",
+        "meteoinfo",
+        "met",
+        "meteor",
+        "meteorology",
+        "meteorologic",
+        "meteorologist",
+        "sounding",
+        "message",
+        "fax",
+        "telegram",
+        "translator",
+        "kit",
+        "nuist",
+        "qixiang",
+        "weather",
+        "ttaa",
+        "code"
+    ],
+    "author": "gylidian",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/gylidian/meteoinfo/issues"
+    },
+    "homepage": "https://github.com/gylidian/meteoinfo#readme",
+    "devDependencies": {
+        "cz-conventional-changelog": "^3.0.2"
+    },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    },
+    "dependencies": {
+        "reflect-metadata": "^0.1.13"
+    }
+}
